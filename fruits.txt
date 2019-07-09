@@ -10,7 +10,7 @@
 6.pineapple
 6.pineapple
 6.pineapple
-5.melon
-6.banana
+7.melon
+8.banana
 
 
